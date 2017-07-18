@@ -1,0 +1,41 @@
+li{
+    color: #33C4FF;
+    font-size: 30px;
+    display: inline;
+    font-family: Century Gothic;
+    }
+
+h1 {color:blue;}
+h2 {color: white;}
+
+h1 {font-family: cursive;}
+
+.nav{
+    width: 900px;
+    height: 50px;
+    background-color: #B7BCBF;
+    }
+
+.left{
+    background: url(http://cdn2.hubspot.net/hubfs/141581/beets.jpg) no-repeat;
+    width: 450px;
+    height: 850px; 
+    float: left;}
+
+.right{
+    background: url(http://redonline.cdnds.net/main/thumbs/16505/quinoa_goats_cheese_beetroot_risotto_with_parsely_lemon_oil_2__square.jpg) no-repeat;
+    width: 450px;
+    height: 850px;
+    float: right;
+    }
+    
+.wrapper { 
+    width: 900px;
+    height: 1200px;
+  }
+  
+#new {
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+    }
