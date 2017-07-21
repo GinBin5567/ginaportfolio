@@ -28,3 +28,10 @@ $("#taco").mouseover(function(){
     $("#wait").hide();
     $("#topP").hide();
     });
+$("#WW").click(function(){
+    $("#WW").attr("src" ,"https://s-media-cache-ak0.pinimg.com/originals/c6/2c/01/c62c01284b141230d93262788e3948d3.gif");
+    $("#taco").hide();
+    $("#wow").html("Best movie of 2017, no contest.");
+    $("#wait").hide();
+    $("#topP").hide();
+    });
