@@ -12,33 +12,33 @@
     height: 600px;
     width: 50%;
     background: url(https://vinestreetcommunications.com/wp-content/uploads/2011/07/Question-mark-on-piece-of-paper.jpg) no-repeat ;
-    background-size: 1000px, 750px;
+    background-size: 100% 100%;
     float: left;
     
     }
 #jokes{
     height: 600px;
     width: 50%;
-    background: url(http://i.dailymail.co.uk/i/pix/2014/08/04/article-0-203C9DB900000578-441_964x632.jpg);
+    background: url(http://i.dailymail.co.uk/i/pix/2014/08/04/article-0-203C9DB900000578-441_964x632.jpg) no-repeat;
+    background-size: 100% 100%;
     float: right;
-    background-size: 1000px, 750px;
     }
 #hack{
     height: 600px;
     width: 50%;
-    background: url(http://diysolarpanelsv.com/images/art-project-clipart-53.png);
+    background: url(http://diysolarpanelsv.com/images/art-project-clipart-53.png) no-repeat;
     background-color: green;
     clear: left;
     float: left;
     text-align: center;
-    background-size: 1000px, 750px; 
+    background-size: 75%, 75%; 
     }
 #other{
     height: 600px;
     width: 50%;
     background-color: purple;
     background: url(https://m.popkey.co/7fa054/kdjO8.gif) no-repeat;
-    background-size: 1000px, 750px;
+    background-size: 100% 100%;
     clear:right;
     float:right;
     text-align: center;
