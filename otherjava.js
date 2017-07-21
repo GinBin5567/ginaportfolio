@@ -20,7 +20,7 @@ $("#resetButton").click(function(){
     $("#wait").hide();
     $("#topP").hide();
     });
-$("#taco").mouseover(function(){
+$("#taco").click(function(){
     $("#top").hide();
     $("#taco").attr("src", "https://media.giphy.com/media/Q7HsSEI4uKWFW/giphy.gif");
     $("#WW").hide();
