@@ -1,0 +1,44 @@
+#wrapper{
+    width: 100%; 
+    height: 900px;
+    }
+#top{
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    }
+body{
+    background-color: #13F79A;
+    background: #13F79A;
+    }
+#resetButton{
+    border: 0px;
+    background-color: #D500FF  ;
+    color: white;
+    padding: 15px 32px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    }
+#taco{
+    width: 700px;
+}
+#WW{
+    width: 100%;
+    float: right;
+    font-family: monospace;
+    }
+#wow{
+    font-size: 100px;
+    text-align: center;
+    }
+#wait{
+    width: 900px;
+    }
+#topP{
+    font-size: 100px;
+    font-family:"Trebuchet MS" ;
+    }
